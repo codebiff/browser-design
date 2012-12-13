@@ -1,2 +1,2 @@
 guard: bundle exec guard
-server: thin start
+server: bundle exec thin start
